@@ -7,4 +7,4 @@ def reverse(word)
 end
 
 
-reverse('Hello there')
+reverse(gets.chomp)
